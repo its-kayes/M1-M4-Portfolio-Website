@@ -1,0 +1,46 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: xx-large;
+}
+.firsth1{
+    padding-top: 80px;
+}
+.me{
+    color: orange;
+}
+.about{
+    text-align: justify;
+    font-weight: 400;
+    font-size: large;
+}
+section{
+    display: flex;
+}
+
+.divwidth{
+    width: 50%;
+    padding-left: 10%;
+}
+.divwrite{
+    margin-right: 10%;
+    padding-left: 50px;
+}
+.divwidth img{
+    width: 80%;
+    padding-top: 10%;
+}
+.hire{
+    padding: 10px 40px;
+    border-radius: 2px;
+    text-decoration: none;
+    background-image: linear-gradient(yellow, orange);
+    color: white;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
